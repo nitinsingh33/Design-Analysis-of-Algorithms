@@ -54,7 +54,7 @@ This repository covers the following algorithm design strategies:
 This repository contains algorithms implemented in the following programming languages:
 
 - **Python** (Recommended for understanding and quick prototyping)
-- [**Java** (Object-oriented and widely used in enterprise applications)]: #)
+- [**Java** (Object-oriented and widely used in enterprise applications)]: # )
 
 
 ---
