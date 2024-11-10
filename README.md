@@ -1,6 +1,6 @@
 # Design & Analysis of Algorithms
 
-Welcome to the **Design & Analysis of Algorithms** repository! This repository contains various algorithms, their design techniques, and analyses for performance optimization. Whether you're a student, researcher, or developer, you'll find useful examples and explanations for understanding and implementing key algorithms in computer science.
+Welcome to the **Design & Analysis of Algorithms** repository! This repository contains various algorithms, their design techniques, and analyses for performance optimization. Whether you're a student or developer, you'll find useful examples and explanations for understanding and implementing key algorithms in computer science.
 
 ---
 
