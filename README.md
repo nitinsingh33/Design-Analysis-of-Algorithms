@@ -54,8 +54,7 @@ This repository covers the following algorithm design strategies:
 This repository contains algorithms implemented in the following programming languages:
 
 - **Python** (Recommended for understanding and quick prototyping)
-- [**Java** (Object-oriented and widely used in enterprise applications)]: # )
-
+- **Java** (Object-oriented and widely used in enterprise applications)
 
 ---
 
@@ -63,7 +62,7 @@ This repository contains algorithms implemented in the following programming lan
 
 ```
 .
-├── algorithms/
+├── algorithms/ 
 │   ├── sorting/
 │   │   ├── merge_sort.py
 │   │   └── quick_sort.cpp
@@ -128,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Open source community**: For making the implementation of algorithms accessible to everyone.
 - **GeeksforGeeks**, **Coursera**, **LeetCode**, and other educational platforms that provided inspiration for problem-solving and algorithmic approaches.
-- Special thanks to **[yourname]** for the contributions to this repository!
+- Special thanks to **Nitin Singh** for the contributions to this repository!
 
 ---
 
