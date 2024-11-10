@@ -15,7 +15,7 @@ The purpose of this repository is to showcase various **algorithm design paradig
 - **Comprehensive Coverage**: Includes algorithms from sorting, searching, dynamic programming, graph theory, and more.
 - **In-depth Analysis**: Detailed discussions on **time complexity** and **space complexity**.
 - **Python Implementations**: Algorithms are implemented in **Python** languages..
-- **Efficient Design**: Focus on not only solving problems  but also optimizing performance using proven design strategies.
+- **Efficient Design**: Focus on not only solving problems but also optimizing performance using proven design strategies.
 
 ---
 
@@ -47,9 +47,6 @@ This repository covers the following algorithm design strategies:
   Exploring various ways to represent and traverse graphs.  
   Examples: BFS, DFS, Dijkstra’s Algorithm, Prim’s Algorithm.
 
-- **String Matching Algorithms**  
-  Techniques for finding substrings in a string efficiently.  
-  Examples: Knuth-Morris-Pratt, Rabin-Karp, Boyer-Moore.
 
 ---
 
