@@ -47,7 +47,6 @@ This repository covers the following algorithm design strategies:
   Exploring various ways to represent and traverse graphs.  
   Examples: BFS, DFS, Dijkstra’s Algorithm, Prim’s Algorithm.
 
-
 ---
 
 ## 🔧 Technologies & Languages
@@ -55,9 +54,8 @@ This repository covers the following algorithm design strategies:
 This repository contains algorithms implemented in the following programming languages:
 
 - **Python** (Recommended for understanding and quick prototyping)
-- **C++** (Efficient and commonly used for competitive programming)
-- **Java** (Object-oriented and widely used in enterprise applications)
-- **JavaScript** (For web-related algorithm problems)
+- [**Java** (Object-oriented and widely used in enterprise applications)]: #)
+
 
 ---
 
