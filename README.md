@@ -17,7 +17,6 @@ The purpose of this repository is to showcase various **algorithm design paradig
 - **Python Implementations**: Algorithms are implemented in **Python** languages..
 - **Efficient Design**: Focus on not only solving problems but also optimizing performance using proven design strategies.
 
-
 ---
 
 ## 🛠️ Algorithm Design Paradigms
