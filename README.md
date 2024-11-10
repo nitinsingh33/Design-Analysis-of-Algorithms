@@ -6,7 +6,7 @@ Welcome to the **Design & Analysis of Algorithms** repository! This repository c
 
 ## 📚 About
 
-The purpose of this repository is to showcase various **algorithm design paradigms** and their applications in solving computational problems efficiently. Here, you'll find algorithms that span classic topics such as sorting, searching, graph traversal, dynamic programming, greedy algorithms, and much more. Each algorithm is accompanied by detailed explanations, time and space complexity analysis, and sample implementations in various programming languages.
+The purpose of this repository is to showcase various **algorithm design paradigms** and their applications in solving computational problems efficiently. Here, you'll find algorithms that span classic topics such as sorting, searching, graph traversal, dynamic programming, greedy algorithms, and much more. So if you are a student you can easily revise DAA for semester exams with code implementation and this was somewhat my main reason for making it. Each algorithm is accompanied by detailed explanations, time and space complexity analysis, and sample implementations in various programming languages.
 
 ---
 
@@ -14,7 +14,7 @@ The purpose of this repository is to showcase various **algorithm design paradig
 
 - **Comprehensive Coverage**: Includes algorithms from sorting, searching, dynamic programming, graph theory, and more.
 - **In-depth Analysis**: Detailed discussions on **time complexity**, **space complexity**, and **best/average/worst case scenarios**.
-- **Multiple Implementations**: Algorithms are implemented in multiple languages such as **Python**, **C++**, **Java**, and **JavaScript**.
+- **Python Implementations**: Algorithms are implemented in **Python** languages.
 - **Visualization**: Some algorithms are accompanied by visualizations to help you better understand their working.
 - **Efficient Design**: Focus on not only solving problems but also optimizing performance using proven design strategies.
 - **Practice Problems**: Includes references to practice problems from platforms like LeetCode, HackerRank, and Codeforces.
