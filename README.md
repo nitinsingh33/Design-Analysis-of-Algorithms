@@ -15,7 +15,7 @@ The purpose of this repository is to showcase various **algorithm design paradig
 - **Comprehensive Coverage**: Includes algorithms from sorting, searching, dynamic programming, graph theory, and more.
 - **In-depth Analysis**: Detailed discussions on **time complexity** and **space complexity**.
 - **Python Implementations**: Algorithms are implemented in **Python** languages..
-- **Efficient Design**: Focus on not only solving problems but also optimizing performance using proven design strategies.
+- **Efficient Design**: Focus on not only solving problems  but also optimizing performance using proven design strategies.
 
 ---
 
